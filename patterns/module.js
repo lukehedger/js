@@ -1,0 +1,7 @@
+/**
+  * Module pattern
+  *
+  *
+  *
+  * @see 
+**/

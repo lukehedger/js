@@ -1,0 +1,7 @@
+/**
+  * Singleton pattern
+  *
+  *
+  *
+  * @see 
+**/
